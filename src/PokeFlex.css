@@ -1,0 +1,15 @@
+ div {
+
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+background-color: red
+
+
+ }
+
+ img {
+     width: 100px;
+     height: 100px;
+
+ }
